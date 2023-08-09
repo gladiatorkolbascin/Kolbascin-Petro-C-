@@ -1,2 +1,2 @@
 # Kolbascin-Petro-C-
-C++ rePO
+C++ rePO C++ smd start ctl fast
