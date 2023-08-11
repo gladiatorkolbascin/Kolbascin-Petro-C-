@@ -13,3 +13,5 @@ console.log(res.data);
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
+
+                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
