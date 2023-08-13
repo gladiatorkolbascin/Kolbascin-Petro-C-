@@ -15,3 +15,10 @@ console.log(res.data);
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
 
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
+ try {
+                const browser = await puppeteer.connect(
+                    { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
+                    
+                        const page = await browser.newPage();
+                        await page.goto('https://www.google.com/');
+           
