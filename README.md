@@ -3,11 +3,7 @@ console.log(res.data);
             try {
                 const browser = await puppeteer.connect(
                         await new Promise(resolve => setTimeout(resolve, 1000));
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
+                        await page.goto('ch'chrome-extension://nkbihfbeogaeaoehlefn2
 
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
  try {
