@@ -9,5 +9,8 @@ console.log(res.data);
                     { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
                         const page = await browser.newPage();
+                        await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
+                    
+                        const page = await browser.newPage();
                         await page.goto('https://www.google.com/');
            
