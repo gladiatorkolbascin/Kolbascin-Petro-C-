@@ -10,8 +10,7 @@ console.log(res.data);
                     
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
+                    hlefn2
  try {
                 const browser = await puppeteer.con
                         const page = await browser.newPage();
