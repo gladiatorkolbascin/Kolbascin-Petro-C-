@@ -8,8 +8,7 @@ console.log(res.data);
                     hlefn2
  try {
                 const browser = await puppeteer.con
-                        const page = await browser.newPage();
-                        await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
+                        const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');
