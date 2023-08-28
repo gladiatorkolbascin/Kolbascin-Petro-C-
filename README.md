@@ -10,8 +10,6 @@ console.log(res.data);
                 const browser = await puppeteer.con
                         const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
-                        const page = await browser.newPage();
-                        await page.goto('https://www.google.com/');
            console.log(res.data);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
