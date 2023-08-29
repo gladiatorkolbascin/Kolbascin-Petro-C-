@@ -14,7 +14,7 @@ console.log(res.data);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
                 const browser = await puppeteer.connect(
-                        await new P
+                        await new
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
  try {
                 const browser = await puppeteer.connect(
