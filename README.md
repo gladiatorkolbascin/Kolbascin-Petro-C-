@@ -10,7 +10,7 @@ console.log(res.data);
                 const browser = await puppeteer.con
                         const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
-           console.log(res.data);
+           console.log(res.data
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
                 const browser = await puppeteer.connect(
