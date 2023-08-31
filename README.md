@@ -13,7 +13,7 @@ console.log(res.data);
            console.log(res.data
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
-                const browser = await puppeteer.connect(
+                const browser = await puppeteer.c
                         await new
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
  try {
