@@ -7,7 +7,7 @@ console.log(res.data);
                     { browserWSEndpoint: res.data.data.ws.puppeteer, defateer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     hlefn2
  try {
-                const browser = await puppeteer.con
+                const browser = await puppeteer
                         const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
            console.log(res.data
