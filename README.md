@@ -4,8 +4,7 @@ console.log(res.data);
                 const browser = await puppeteer.connect(
                         await new P
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
-                    { browserWSEndpoint: res.data.data.ws.puppeteer, defateer, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    hlefn2
+                    { browserWSEndpoint: res.data.data
  try {
                 const browser = await puppeteer
                         const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
