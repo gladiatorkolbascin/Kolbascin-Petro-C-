@@ -7,8 +7,7 @@ console.log(res.data);
                     { browserWSEndpoint: res.data.data
  try {
                 const browser = await puppeteer
-                        const page = await browser.newPage();r, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    
+                        const page = await browser.newPage();r, default
            console.log(res.data
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
