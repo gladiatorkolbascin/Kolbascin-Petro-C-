@@ -8,7 +8,7 @@ console.log(res.data);
                 const browser = await puppeteer
                         const page = await browser.newPage();r, default
            console.log(res.data1&& res.data.data.ws.puppeteer) {
-            try {
+            tr
                 const browser = await puppeteer.c
                         await new
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
