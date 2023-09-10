@@ -5,7 +5,7 @@ console.log(res.data);
                         await new P
                         await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
                     { browserWSEndpoint: res.
-                const browser = await puppeteer
+                const browser = await puppet
                         const page = await browser.newPage();r, default
            console.log(res.data1&& res.data.data.ws.puppeteer) {
             tr
