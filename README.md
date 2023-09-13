@@ -7,7 +7,7 @@ console.log(res.data);
             tr
                 const browser = await puppeteer.c
                         await new
-                        await page.goto('chrome-extension://nkbihfbeogaeaoehlefn2
+                        await page.goto('chrextension://nkbihfbeogaeaoehlefn2
  try {
                 const browser = await puppeteer.connect(
                     { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
