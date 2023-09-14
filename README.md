@@ -3,7 +3,7 @@ console.log(res.data);
             try {
                 const browser = await puppeteer.connect(
                         await ne
-           console.log(res.data1&& res.data.data.ws.puppeteer) {
+           console.log(res.data1&& res.data.data.ws.puppetee{
             tr
                 const browser = await puppeteer.c
                         await new
