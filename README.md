@@ -7,7 +7,7 @@ console.log(res.data);
             tr
                 const browser = await puppeteer.c
                         await new
-                        await page.goto('chrextension://nkbihfbeogaeaoehlefn
+                        await page('chrextension://nkbihfbeogaeaoehlefn
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
