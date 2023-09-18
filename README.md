@@ -5,7 +5,7 @@ console.log(res.data);
                         await ne
            console.log(res.data1&& res.data.data.ws.puppetee{
             tr
-                const browser = await puppeteer.c
+                const browser = await puppete
                         await new
                         await page('chrextension://nkbihfbeogaeaoehlefn
                         const page = await browser.newPage();
