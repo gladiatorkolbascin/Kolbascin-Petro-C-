@@ -2,7 +2,7 @@ console.log(res.data);
         if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
                 const browser = await puppeteer.connect(# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
+StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
 (resolve, 1500));browser.newPappsha
