@@ -5,8 +5,7 @@ console.log(res.data);
 StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPappsha
-iles[i].id;
+(resolve, 1500));browser.newPappsh
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
