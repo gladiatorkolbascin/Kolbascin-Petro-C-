@@ -3,7 +3,7 @@ console.log(res.data);
             try {
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
 ewPa
 (resolve, 1500));browser.newPappsh
         const accountNumber = data.profiles[i].account_number;
