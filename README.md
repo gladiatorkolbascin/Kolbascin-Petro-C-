@@ -14,8 +14,6 @@ count_number;= data.profiles[i].id;
            console.log(res.data1&& res.data.data.ws.puppetee{
             tr
                 const browser = await puppete
-                        await new
-                        await page('chresion://nkbihfbeogaeaoehlefn
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
                     
