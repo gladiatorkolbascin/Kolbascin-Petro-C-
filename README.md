@@ -13,10 +13,6 @@ count_number;= data.profiles[i].id;
                         await ne
            console.log(res.data1&& res.data.data.ws.puppetee{
             tr
-                const browser = await puppete
-                        const page = await browser.newPage();
-                        await page.goto('https://www.google.com/');.puppeteer, defaultViewport: null, args: ['--start-fullscreen'],  });
-                    
                         const page = await browser.newPage();
                         await page.goto('https://www.google.com/');
            it browser.newPage();
