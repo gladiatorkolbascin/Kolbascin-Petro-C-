@@ -9,8 +9,6 @@ ewPa
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
-                        await ne
            console.log(res.data1&& res.data.data.ws.puppetee{
             tr
                         const page = await browser.newPage();
