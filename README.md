@@ -5,10 +5,6 @@ console.log(res.data);
 StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
 ewPa
-(resolve, 1500));browser.newPappsh
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
-count_number;= data.profiles[i].id;
            console.log(res.data1&& res.data.data.ws.puppetee{
             tr
                         const page = await browser.newPage();
