@@ -3,10 +3,7 @@ console.log(res.data);
             try {
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
-ewPa
-           console.log(res.data1&& res.data.data.ws.puppetee{
-            tr
+        const profilePassrd = data.prof(resolve, 1500));browser
                         const page = await browser.newPage();
                     }
 
