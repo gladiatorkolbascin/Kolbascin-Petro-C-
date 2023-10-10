@@ -4,9 +4,6 @@ console.log(res.data);
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resolve, 1500));browser
-                        const page = await browser.newPage();
-                    }
-
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[
 count_number;= data.profiles[i].id;
