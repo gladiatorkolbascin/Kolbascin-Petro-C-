@@ -3,8 +3,7 @@ console.log(res.data);
             try {
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
-        const profilePassrd = data.prof(resolve, 1500));browser
-                    async function pageActions(ount_number;
+        const profilePassrd = data.prof(resons(ount_number;
         const profilePassword = data.profiles[i].passw
         const accountNumber = data.profiles[i].account_number;
                     }
