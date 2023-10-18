@@ -4,8 +4,6 @@ console.log(res.data);
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resons(ount_number;
-        const profilePassword = data.profiles[i].passw
-        const accountNumber = data.profiles[i].account_number;
                     }
 3, 
 StylishDemon        const profileId = data.iles[i 
