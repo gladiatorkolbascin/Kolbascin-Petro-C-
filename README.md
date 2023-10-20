@@ -1,5 +1,4 @@
-console.log(res.data);
-        if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
+console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
             try {
                 const browser = await puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
