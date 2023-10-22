@@ -1,6 +1,5 @@
 console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-            try {
-                const browser = await puppeteer.connect(# StylishDemon
+            try {ait puppeteer.connect(# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pum
         const profilePassrd = data.prof(resons(ount_number;
                     }
