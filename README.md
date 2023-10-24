@@ -1,6 +1,5 @@
 console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-            try {ait puppeteer.connect(# StylishDemon
-StylishDemon        const prata.profiles[i.pum
+            try {ait puppeteer.connect(
         const profilePassrd = data.prof(resons(ount_number;
                     }
 3, 
