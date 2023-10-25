@@ -1,6 +1,5 @@
 console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-            try {ait puppeteer.connect(
-        const profilePassrd = data.prof(resons(ount_number;
+            try {ait puppetea.prof(resons(ount_number;
                     }
 3, 
 StylishDemon        const profileId = data.iles[i 
