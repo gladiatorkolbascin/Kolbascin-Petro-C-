@@ -1,4 +1,4 @@
-console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
+console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.pup) {
             try {ait puppetea.prof(resons(ount_number;
                     }
 3, 
