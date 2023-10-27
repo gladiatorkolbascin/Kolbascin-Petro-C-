@@ -1,5 +1,4 @@
-console.log(res.data);&& res.data.data.ws.puppeteer && res.data.data.ws.pup) {
-            try {ait puppetea.prof(resons(ount_number;
+console.log(res.data);&& res.data.dnumber;
                     }
 3, 
 StylishDemon        const profileId = data.iles[i 
