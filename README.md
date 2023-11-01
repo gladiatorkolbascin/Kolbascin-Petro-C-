@@ -1,4 +1,2 @@
-console.log(res.data);&& res.dat
-StylishDemon        const profileId = data.iles[i 
-        const accountNumber = dailes[i].account_number;
+console.log(res.data);&& res.datnumber;
         const profilePassword = data.profccount_number;
