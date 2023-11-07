@@ -1,4 +1,4 @@
-console.log(res.data);&& res
+
 
       "dependsOn": ["^bu
         "../../.cargo/**",
