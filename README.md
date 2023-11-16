@@ -1,7 +1,4 @@
 
-
-        "../../packages/next-swc/crates/
-      ]
       "dependsOn": ["^bu
         "../../**/Cargo.lock"
       ]
