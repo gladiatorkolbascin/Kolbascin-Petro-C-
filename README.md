@@ -1,6 +1,5 @@
 
       "dependsOn": ["^bu
-        "../../**/Cargo.lock"
       ]
       "dependsOn": ["^bu
         "../../.cargo/**",
