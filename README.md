@@ -1,5 +1,4 @@
 
-      "dependsOn": ["^bu
       ]
       "dependsOn": ["^bu
         "../../.cargo/**",
