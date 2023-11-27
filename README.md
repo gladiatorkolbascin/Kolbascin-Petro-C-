@@ -3,10 +3,7 @@
       "dependsOn": ["^bu
         "../../**/Cargo.lock"
       ]
-      "dependsOn": ["^bu
-        "../../.cargo/**",iles[i].id;
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
+      "dependsOn": ["^bui].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;n        
                         await page4.waitForNetworkIdle(l
