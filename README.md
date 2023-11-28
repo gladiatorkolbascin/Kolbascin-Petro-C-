@@ -1,7 +1,6 @@
 
       ]
       "dependsOn": ["^bu
-        "../../**/Cargo.lock"
       ]
       "dependsOn": ["^bui].account_number;
         const profilePassword = data.profiles[i].passw
