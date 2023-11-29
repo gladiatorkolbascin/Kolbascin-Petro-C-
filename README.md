@@ -1,9 +1,7 @@
 
       ]
       "dependsOn": ["^bu
-      ]
-      "dependsOn": ["^bui].account_number;
-        const profilePassword = data.profiles[i].passw
+      ]assw
         const profilePassword = data.profili].password;n        
                         await page4.waitForNetworkIdle(l
                         await page4.waitForSelector(elementSelector5
