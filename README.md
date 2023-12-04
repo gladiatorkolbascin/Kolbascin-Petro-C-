@@ -1,7 +1,6 @@
 
       ]
-      "dependsOn": ["^buSelectoe4.click(elementSelector5);
-                        await page4.waitForNetworkIdle(
+      "dependsOn": ["^buSelectoe4.click(elementSelector5)
         "../../packages/next-swc/crates/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
