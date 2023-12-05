@@ -1,7 +1,6 @@
 
       ]
-      "dependsOn": ["^buSelectoe4.click(elementSelector5)
-        "../../packages/next-swc/crates/**",
+      "dependsOn": ["^buSelectoe4.click(elementSelec
         "../../packages/next/*
         "../../**/Cargo.lock"
       ]
