@@ -1,6 +1,5 @@
 
       ]
-      "dependsOn": ["^buSelectoe4.click(elementSelec
-  
+      "dependsOn": ["^buSelectoe4.click(eleme
         "../../**/Cargo.lock"
       ]
